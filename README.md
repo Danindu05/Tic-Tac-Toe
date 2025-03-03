@@ -36,5 +36,5 @@ A modern, interactive **Tic-Tac-Toe** game where you play against an AI opponent
 2. Navigate to the project directory:
    ```sh
    cd tictactoe
-3.Open index.html in your preferred browser.
+ 3.Open index.html in your preferred browser.
 
