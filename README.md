@@ -4,11 +4,9 @@ A modern, interactive **Tic-Tac-Toe** game where you play against an AI opponent
 ## 🌟 Features  
 ✅ **Play against AI**
 
-✅ **Minimalistic & modern** 
+✅ **Minimalistic & modern UI** 
 
 ✅ **Smooth animations**
-
-✅ **Restart button** 
 
 ✅ **Responsive design** 
 
