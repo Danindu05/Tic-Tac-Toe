@@ -18,12 +18,16 @@ A modern, interactive **Tic-Tac-Toe** game where you play against an AI opponent
 
 ## 🎯 Key Functionalities  
 🤖 **AI-powered opponent**  
+
 🎲 **Click on a grid cell to make a move**
-🎯 **Win detection for rows, columns, and diagonals**   
+
+🎯**Win detection for rows, columns, and diagonals** 
+
 📱 **Fully responsive design**  
 
 ## 🎨 Design Highlights  
 ✨ **Clean and minimalistic interface**  
+
 🎨 **Subtle shadows and smooth transitions**  
 
 ## 🚀 Live Demo  
