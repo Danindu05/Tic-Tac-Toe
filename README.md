@@ -30,10 +30,11 @@ A modern, interactive **Tic-Tac-Toe** game where you play against an AI opponent
 🔗 [Play the game now!](https://dnttt.statichost.app/)
 
 ## 💻 Local Development  
-1. Clone the repository:  
-```bash
-git clone https://github.com/Danindu05/Tic-Tac-Toe.git
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Danindu05/Tic-Tac-Toe.git
 2. Navigate to the project directory:
-   ```bash
+   ```sh
    cd tictactoe
 3.Open index.html in your preferred browser.
+
