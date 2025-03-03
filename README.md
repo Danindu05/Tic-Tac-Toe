@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe (With AI)  
+# 🎮 Tic-Tac-Toe
 A modern, interactive **Tic-Tac-Toe** game where you play against an AI opponent. Built with a sleek, minimal UI and smooth gameplay.
 
 ## 🌟 Features  
